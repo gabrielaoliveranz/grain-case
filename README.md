@@ -4,6 +4,8 @@
 
 A portfolio project for [**Litchfields Grain**](https://www.litchfieldsgrain.co.nz), a family-run New Zealand company based in Te Puke, Bay of Plenty, with more than 40 years of experience in maize. The business shared records from several sources, and the goal was to bring them together into one Excel workbook that shows sales, expenses, margin, grain pickups and pricing in a single, easy-to-use dashboard.
 
+**[Read the full case study on gabrielaolivera.nz →](https://gabrielaolivera.nz/case-studies/litchfields-grain/)**
+
 > **A note on confidentiality.** This project is shared with the client's permission. Any figures shown in the case study, and the names of suppliers and customers, have been changed for confidentiality. **No database, raw data or client files are shared in this repository.** What is shared is the working methodology: how the data was prepared, modelled and reported.
 
 ## What is in this repository
