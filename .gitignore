@@ -1,0 +1,21 @@
+# Never commit client data or working files
+*.xlsx
+*.xlsm
+*.xltx
+*.csv
+*.pdf
+*.pbix
+*.zip
+01_raw/
+raw/
+data/
+# Keep these
+!images/*.png
+!docs/*.md
+!docs/*.pdf
+!case-study/*.pdf
+# ...but never the draft sent for approval
+case-study/*draft*
+.DS_Store
+Thumbs.db
+~$*
