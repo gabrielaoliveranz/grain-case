@@ -15,15 +15,12 @@ grain-case/
 ├── README.md
 ├── docs/
 │   ├── Data_Consolidation_Methodology.md   How the data was consolidated, modelled and checked
-│   ├── Data Consolidation Methodology (v0.9).pdf   The same methodology as a PDF
 │   └── Appendix_Findings_and_Decisions.md  Every data-quality finding and cleaning decision
 ├── images/
 │   ├── dashboard-1.png                     Dashboard, top half
 │   ├── dashboard-2.png                     Dashboard, bottom half
 │   ├── data-model-diagram-1.png            Tables and fields of the data model
 │   └── data-model-diagram-2.png            Measures and date hierarchy
-├── case-study/
-│   └── Litchfields Grain - Case Study.pdf  One-page case study
 └── assets/                                 Logos
 ```
 
@@ -57,7 +54,7 @@ All analysis of the real data was done manually, and the client's data was never
 
 ## Status
 
-Methodology: version 0.9. The one-page case study is published with the client's approval, and the full write-up is on [gabrielaolivera.nz](https://gabrielaolivera.nz/case-studies/litchfields-grain/).
+Methodology: version 0.9. The case study is published, with the client's approval, on [gabrielaolivera.nz](https://gabrielaolivera.nz/case-studies/litchfields-grain/).
 
 ## Contact
 
